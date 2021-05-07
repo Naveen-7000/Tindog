@@ -202,5 +202,7 @@ margin:0 1.25rem;
     }
     .nav-link{
         font-size: 2rem;
+    font-weight:400;
+}
     }
 }
